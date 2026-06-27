@@ -1,32 +1,36 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Arjun Choudhary
+# Arjun Choudhary
 
 ### Full Stack Developer · AI Training Engineer · No-Code Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Improving+LLMs;Building+AI-powered+Applications;Turning+Ideas+Into+Reality;Java+%7C+Python+%7C+JavaScript;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Improving+LLMs;Building+AI-powered+Applications;Turning+Ideas+Into+Reality;Java+%7C+Python+%7C+JavaScript;Always+Building+Something+New" />
 
 <br/>
 
 <a href="https://github.com/ArjunDarky">
-<img src="https://img.shields.io/badge/GitHub-ArjunDarky-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ArjunDarky-ffffff?style=for-the-badge&logo=github&logoColor=111827&labelColor=ffffff&color=ffffff"/>
 </a>
 <a href="https://www.linkedin.com/in/arjunchoudhery">
-<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-ffffff?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=ffffff&color=ffffff"/>
 </a>
 <a href="https://www.hackerrank.com/profile/arjun_choudhery">
-<img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-ffffff?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=ffffff&color=ffffff"/>
 </a>
 <a href="https://www.codechef.com/users/arjun_knight">
-<img src="https://img.shields.io/badge/CodeChef-arjun__knight-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-arjun__knight-ffffff?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=ffffff&color=ffffff"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+## About Me
+
+<table>
+<tr>
+<td width="60%">
 
 I am a **Full Stack Developer** and **AI Training Engineer** based in **Alexandria, Egypt**.
 
@@ -34,22 +38,25 @@ I work on **AI model evaluation, RLHF workflows, code review, no-code apps, auto
 
 Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technologies**, helping improve large language models through technical evaluation, coding prompts, AI safety testing, and human feedback workflows.
 
+</td>
+<td width="40%">
+
+### Current Focus
+
+- AI Engineering
+- Android Development
+- Full Stack Development
+- No-Code Development
+- Automation Tools
+- Unity Game Development
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Current Focus
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Engineering-95%25-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-90%25-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Android%20Development-85%25-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/No--Code%20Development-80%25-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation%20Tools-75%25-FACC15?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unity%20Game%20Development-60%25-06B6D4?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,26 +66,34 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArjunDarky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDarky&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ArjunDarky&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2563EB&text_color=111827&icon_color=7C3AED&bg_color=ffffff"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDarky&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=111827&bg_color=ffffff"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ArjunDarky&theme=default&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=7C3AED"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ArjunDarky&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&bg_color=ffffff&color=111827&line=2563EB&point=7C3AED&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Focus |
 |---|---|---|
@@ -91,48 +106,44 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Training%20Engineer-Alignerr%20%7C%20Outlier%20%7C%20Invisible-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IOCL%20Rate%20Contract-1%20Million%20USD-FACC15?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HackerRank-Python%20Bronze-2EC866?style=for-the-badge&logo=hackerrank"/>
-<img src="https://img.shields.io/badge/CodeChef-50%20Day%20Gold%20Streak-5B4638?style=for-the-badge&logo=codechef"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-Coding%20Ninjas-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Training%20Engineer-Alignerr%20%7C%20Outlier%20%7C%20Invisible-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff"/>
+<img src="https://img.shields.io/badge/IOCL%20Rate%20Contract-1%20Million%20USD-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff"/>
+<img src="https://img.shields.io/badge/HackerRank-Python%20Bronze-ffffff?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=ffffff&color=ffffff"/>
+<img src="https://img.shields.io/badge/CodeChef-50%20Day%20Gold%20Streak-ffffff?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=ffffff&color=ffffff"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/ArjunDarky">
-<img src="https://img.shields.io/badge/GitHub-ArjunDarky-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ArjunDarky-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/arjunchoudhery">
-<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.hackerrank.com/profile/arjun_choudhery">
 <img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
 <a href="https://www.codechef.com/users/arjun_knight">
 <img src="https://img.shields.io/badge/CodeChef-arjun__knight-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArjunDarky&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ArjunDarky&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 <br/><br/>
 
-### Code · Build · Learn · Repeat 🚀
+### Code · Build · Learn · Repeat
 
 </div>
