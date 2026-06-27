@@ -7,20 +7,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Improving+LLMs;Building+AI-powered+Applications;Turning+Ideas+Into+Reality;Java+%7C+Python+%7C+JavaScript;Always+Building+Something+New" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/ArjunDarky">
-<img src="https://img.shields.io/badge/GitHub-ArjunDarky-ffffff?style=for-the-badge&logo=github&logoColor=111827&labelColor=ffffff&color=ffffff"/>
-</a>
-<a href="https://www.linkedin.com/in/arjunchoudhery">
-<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-ffffff?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=ffffff&color=ffffff"/>
-</a>
-<a href="https://www.hackerrank.com/profile/arjun_choudhery">
-<img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-ffffff?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=ffffff&color=ffffff"/>
-</a>
-<a href="https://www.codechef.com/users/arjun_knight">
-<img src="https://img.shields.io/badge/CodeChef-arjun__knight-ffffff?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=ffffff&color=ffffff"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ArjunDarky&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ArjunDarky?style=for-the-badge&logo=github&color=111827"/>
+<img src="https://img.shields.io/github/stars/ArjunDarky?style=for-the-badge&logo=github&color=2563EB"/>
 
 </div>
 
@@ -54,7 +45,7 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 </tr>
 </table>
 
----
+<br/>
 
 ## Tech Stack
 
@@ -64,7 +55,7 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 
 </div>
 
----
+<br/>
 
 ## GitHub Analytics
 
@@ -91,31 +82,106 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 
 </div>
 
----
+<br/>
 
 ## Experience
 
-| Role | Organization | Focus |
-|---|---|---|
-| AI Training Engineer | Alignerr | Code evaluation, RLHF, technical reasoning |
-| AI Training Engineer | Outlier | Coding prompts, AI output review, code optimization |
-| AI Training Engineer | Invisible Technologies | AI safety testing, adversarial prompts, LLM evaluation |
-| No-Code Developer | iRozar | Bubble, FlutterFlow, APIs, MVP development |
-| Engineer - Cost Estimation | Gaytri Industrial Corporation | Estimation, costing, mechanical systems |
-| Technical Sales Engineer | Aalberts Integrated Piping Systems | Industrial valves, technical sales |
+<table>
+<tr>
+<td width="50%">
 
----
+### AI Training Engineer  
+**Alignerr**
+
+Code evaluation, RLHF workflows, technical reasoning, and AI model improvement.
+
+</td>
+<td width="50%">
+
+### AI Training Engineer  
+**Outlier**
+
+Coding prompts, AI output review, code optimization, and multi-turn coding evaluation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### AI Training Engineer  
+**Invisible Technologies**
+
+AI safety testing, adversarial prompts, LLM evaluation, and code integrity checks.
+
+</td>
+<td width="50%">
+
+### No-Code Developer  
+**iRozar**
+
+Bubble, FlutterFlow, third-party APIs, MVP development, and workflow automation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Engineer - Cost Estimation  
+**Gaytri Industrial Corporation**
+
+Cost estimation, mechanical components, industrial systems, and technical documentation.
+
+</td>
+<td width="50%">
+
+### Technical Sales Engineer  
+**Aalberts Integrated Piping Systems**
+
+Industrial valves, technical sales, client support, and project coordination.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Achievements
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Training%20Engineer-Alignerr%20%7C%20Outlier%20%7C%20Invisible-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff"/>
-<img src="https://img.shields.io/badge/IOCL%20Rate%20Contract-1%20Million%20USD-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff"/>
-<img src="https://img.shields.io/badge/HackerRank-Python%20Bronze-ffffff?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=ffffff&color=ffffff"/>
-<img src="https://img.shields.io/badge/CodeChef-50%20Day%20Gold%20Streak-ffffff?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=ffffff&color=ffffff"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### AI Training Engineer  
+Worked with **Alignerr**, **Outlier**, and **Invisible Technologies** on AI model evaluation and coding tasks.
+
+</td>
+<td width="50%">
+
+### 1 Million USD Contract  
+Secured a **1 Million USD IOCL Rate Contract** during industrial engineering experience.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### HackerRank  
+Earned **Python Bronze Badge**.
+
+</td>
+<td width="50%">
+
+### CodeChef  
+Achieved **50-Day Gold Streak**.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Connect With Me
 
@@ -124,12 +190,15 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 <a href="https://github.com/ArjunDarky">
 <img src="https://img.shields.io/badge/GitHub-ArjunDarky-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/arjunchoudhery">
 <img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.hackerrank.com/profile/arjun_choudhery">
 <img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
 <a href="https://www.codechef.com/users/arjun_knight">
 <img src="https://img.shields.io/badge/CodeChef-arjun__knight-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
@@ -139,10 +208,6 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 <br/>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArjunDarky&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-<br/><br/>
 
 ### Code · Build · Learn · Repeat
 
