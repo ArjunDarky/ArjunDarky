@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Arjun Choudhary</h1>
 
 <p align="center">
@@ -116,4 +115,4 @@ I'm a passionate <b>Full Stack Developer</b> and <b>AI Training Engineer</b> bas
 <p align="center">
 <i>"Code. Build. Learn. Repeat."</i>
 </p>
-```
+
