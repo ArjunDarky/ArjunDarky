@@ -23,7 +23,7 @@
 <tr>
 <td width="60%">
 
-I am a **Full Stack Developer** and **AI Training Engineer** based in **Alexandria, Egypt**.
+I am a **Full Stack Developer** and **AI Training Engineer** based in **Mumbai, India**.
 
 I work on **AI model evaluation, RLHF workflows, code review, no-code apps, automation tools, Android apps, web platforms, and AI-powered products**.
 
