@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Arjun Choudhary
@@ -15,9 +14,9 @@
 
 </div>
 
-<br/>
+---
 
-## About Me
+# 👋 About Me
 
 <table>
 <tr>
@@ -25,29 +24,45 @@
 
 I am a **Full Stack Developer** and **AI Training Engineer** based in **Mumbai, India**.
 
-I work on **AI model evaluation, RLHF workflows, code review, no-code apps, automation tools, Android apps, web platforms, and AI-powered products**.
+I specialize in:
 
-Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technologies**, helping improve large language models through technical evaluation, coding prompts, AI safety testing, and human feedback workflows.
+- AI Model Evaluation
+- RLHF Workflows
+- Full Stack Development
+- Android Development
+- Automation
+- No-Code Development
+- AI Products
+
+Currently working with:
+
+- **Alignerr**
+- **Outlier**
+- **Invisible Technologies**
+
+helping improve Large Language Models through technical evaluation, coding, AI safety, and human feedback.
 
 </td>
+
 <td width="40%">
 
-### Current Focus
+## 🚀 Current Focus
 
 - AI Engineering
-- Android Development
-- Full Stack Development
-- No-Code Development
-- Automation Tools
-- Unity Game Development
+- Android Apps
+- Full Stack Apps
+- Unity Games
+- SaaS Products
+- Automation
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-## Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -55,160 +70,160 @@ Currently, I collaborate with **Alignerr**, **Outlier**, and **Invisible Technol
 
 </div>
 
-<br/>
+---
 
-## GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunDarky&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2563EB&text_color=111827&icon_color=7C3AED&bg_color=ffffff"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDarky&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=111827&bg_color=ffffff"/>
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunDarky&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDarky&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ArjunDarky&theme=default&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=7C3AED"/>
+<br><br>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=ArjunDarky&theme=transparent&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&bg_color=ffffff&color=111827&line=2563EB&point=7C3AED&area=true&hide_border=true"/>
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&theme=github-light&hide_border=true&area=true"/>
 
 </div>
 
-<br/>
+---
 
-## Experience
+# 💼 Experience
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-### AI Training Engineer  
+### AI Training Engineer
+
 **Alignerr**
 
-Code evaluation, RLHF workflows, technical reasoning, and AI model improvement.
+- RLHF
+- Code Evaluation
+- Technical Reasoning
+- AI Improvement
 
 </td>
+
 <td width="50%">
 
-### AI Training Engineer  
+### AI Training Engineer
+
 **Outlier**
 
-Coding prompts, AI output review, code optimization, and multi-turn coding evaluation.
+- Coding Prompts
+- AI Review
+- Multi-turn Evaluation
+- Code Optimization
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### AI Training Engineer  
+### AI Training Engineer
+
 **Invisible Technologies**
 
-AI safety testing, adversarial prompts, LLM evaluation, and code integrity checks.
+- AI Safety
+- LLM Evaluation
+- Prompt Engineering
+- Adversarial Testing
 
 </td>
+
 <td width="50%">
 
-### No-Code Developer  
+### No-Code Developer
+
 **iRozar**
 
-Bubble, FlutterFlow, third-party APIs, MVP development, and workflow automation.
+- Bubble
+- FlutterFlow
+- APIs
+- MVP Development
+- Automation
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### Engineer - Cost Estimation  
+### Engineer
+
 **Gaytri Industrial Corporation**
 
-Cost estimation, mechanical components, industrial systems, and technical documentation.
+- Cost Estimation
+- Mechanical Systems
+- Technical Documentation
 
 </td>
+
 <td width="50%">
 
-### Technical Sales Engineer  
+### Technical Sales Engineer
+
 **Aalberts Integrated Piping Systems**
 
-Industrial valves, technical sales, client support, and project coordination.
+- Industrial Valves
+- Client Support
+- Technical Sales
 
 </td>
+
 </tr>
+
 </table>
 
-<br/>
+---
 
-## Achievements
+# 🏆 Achievements
 
-<table>
-<tr>
-<td width="50%">
+- 🤖 AI Training Engineer at **Alignerr**, **Outlier**, and **Invisible Technologies**
+- 💰 Secured **1 Million USD IOCL Rate Contract**
+- 🥉 HackerRank Python Bronze Badge
+- 🥇 CodeChef 50-Day Gold Streak
 
-### AI Training Engineer  
-Worked with **Alignerr**, **Outlier**, and **Invisible Technologies** on AI model evaluation and coding tasks.
+---
 
-</td>
-<td width="50%">
-
-### 1 Million USD Contract  
-Secured a **1 Million USD IOCL Rate Contract** during industrial engineering experience.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### HackerRank  
-Earned **Python Bronze Badge**.
-
-</td>
-<td width="50%">
-
-### CodeChef  
-Achieved **50-Day Gold Streak**.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/ArjunDarky">
-<img src="https://img.shields.io/badge/GitHub-ArjunDarky-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ArjunDarky-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arjunchoudhery">
-<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Arjun%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/arjun_choudhery">
-<img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-arjun__choudhery-00EA64?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 <a href="https://www.codechef.com/users/arjun_knight">
-<img src="https://img.shields.io/badge/CodeChef-arjun__knight-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-arjun__knight-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### Code · Build · Learn · Repeat
+### ⭐ Code • Build • Learn • Repeat ⭐
 
 </div>
