@@ -72,21 +72,27 @@ helping improve Large Language Models through technical evaluation, coding, AI s
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunDarky&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ArjunDarky&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunDarky&theme=github" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDarky&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunDarky&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunDarky&theme=github" />
+</p>
 
-<br><br>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunDarky&theme=github" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=ArjunDarky&theme=transparent&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&theme=github-light&hide_border=true&area=true"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&theme=github-light&hide_border=true&area=true" />
+</p>
 
 </div>
 
