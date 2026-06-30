@@ -16,53 +16,28 @@
 
 ---
 
-# 👋 About Me
-
-<table>
-<tr>
-<td width="60%">
+## 👋 About Me
 
 I am a **Full Stack Developer** and **AI Training Engineer** based in **Mumbai, India**.
 
-I specialize in:
+I work on **AI model evaluation, RLHF workflows, full stack development, Android apps, automation tools, no-code development, and AI-powered products**.
 
-- AI Model Evaluation
-- RLHF Workflows
-- Full Stack Development
-- Android Development
-- Automation
-- No-Code Development
-- AI Products
+Currently working with **Alignerr**, **Outlier**, and **Invisible Technologies**, helping improve Large Language Models through technical evaluation, coding, AI safety, and human feedback.
 
-Currently working with:
+### 🚀 Current Focus
 
-- **Alignerr**
-- **Outlier**
-- **Invisible Technologies**
-
-helping improve Large Language Models through technical evaluation, coding, AI safety, and human feedback.
-
-</td>
-
-<td width="40%">
-
-## 🚀 Current Focus
-
-- AI Engineering
-- Android Apps
-- Full Stack Apps
-- Unity Games
-- SaaS Products
-- Automation
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Android%20Apps-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Apps-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unity%20Games-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS%20Products-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge"/>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -80,116 +55,58 @@ helping improve Large Language Models through technical evaluation, coding, AI s
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunDarky&theme=github" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunDarky&theme=github" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunDarky&theme=github" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunDarky&theme=github" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunDarky&theme=github" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArjunDarky&theme=github&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunDarky&theme=github" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArjunDarky&theme=github&utcOffset=5.5" width="48%" />
 
 </div>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### AI Training Engineer
-
-**Alignerr**
-
+### AI Training Engineer — Alignerr
 - RLHF
 - Code Evaluation
 - Technical Reasoning
 - AI Improvement
 
-</td>
-
-<td width="50%">
-
-### AI Training Engineer
-
-**Outlier**
-
+### AI Training Engineer — Outlier
 - Coding Prompts
 - AI Review
 - Multi-turn Evaluation
 - Code Optimization
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### AI Training Engineer
-
-**Invisible Technologies**
-
+### AI Training Engineer — Invisible Technologies
 - AI Safety
 - LLM Evaluation
 - Prompt Engineering
 - Adversarial Testing
 
-</td>
-
-<td width="50%">
-
-### No-Code Developer
-
-**iRozar**
-
+### No-Code Developer — iRozar
 - Bubble
 - FlutterFlow
 - APIs
 - MVP Development
 - Automation
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### Engineer
-
-**Gaytri Industrial Corporation**
-
+### Engineer — Gaytri Industrial Corporation
 - Cost Estimation
 - Mechanical Systems
 - Technical Documentation
 
-</td>
-
-<td width="50%">
-
-### Technical Sales Engineer
-
-**Aalberts Integrated Piping Systems**
-
+### Technical Sales Engineer — Aalberts Integrated Piping Systems
 - Industrial Valves
 - Client Support
 - Technical Sales
 
-</td>
-
-</tr>
-
-</table>
-
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - 🤖 AI Training Engineer at **Alignerr**, **Outlier**, and **Invisible Technologies**
 - 💰 Secured **1 Million USD IOCL Rate Contract**
@@ -198,7 +115,7 @@ helping improve Large Language Models through technical evaluation, coding, AI s
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
