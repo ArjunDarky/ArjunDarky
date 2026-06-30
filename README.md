@@ -76,23 +76,17 @@ helping improve Large Language Models through technical evaluation, coding, AI s
 
 <div align="center">
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=ArjunDarky&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunDarky&theme=github" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunDarky&theme=github" width="100%" />
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunDarky&theme=github" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunDarky&theme=github" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunDarky&theme=github" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunDarky&theme=github" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunDarky&theme=github" width="49%" />
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunDarky&theme=github-light&hide_border=true&area=true" />
-</p>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunDarky&theme=github" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArjunDarky&theme=github&utcOffset=5.5" width="49%" />
 
 </div>
 
